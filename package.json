@@ -1,7 +1,7 @@
 {
   "name": "parse-pointer-encoder",
   "version": "0.0.1",
-  "description": "",
+  "description": "Encode and Decode Parse objects to and from pointer strings",
   "main": "out/index.js",
   "types": "out/index.d.ts",
   "scripts": {

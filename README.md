@@ -1,6 +1,10 @@
 # parse-pointer-encoder
 
+Encode and Decode Parse objects to and from pointer strings
 
+## Why?
+
+In some cases, you may want to convert a string like `MyClass:383` to a `Parse.Object`, or maybe convert a `Parse.Object` to a format like `MyClass$123`. This library helps you encoding and decoding Parse objects to and from strings.
 
 ## Install
 ```sh
